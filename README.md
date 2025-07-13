@@ -1,4 +1,4 @@
-### 👋 Hello! I'm Mariam Fathi
+### 👋 Hello! I'm Meriem Fathi
 
 I'm a **network systems engineer** who transitioned into the world of software development.  
 After completing several programming courses, I decided to explore the broader IT field and pursue my passion for coding.
